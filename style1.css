@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+   
+}
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.logo{
+    justify-content: center;
+    display: flex;
+}
+
+.main-container{
+    padding: 1rem;
+}
+
+.intro{
+   text-align: center;  
+   background-color: aqua;
+}
+.intro img{
+    margin-top: 2rem;
+    margin-bottom: 3rem;   
+}
+
+.response{
+    text-align: center;
+}
+
+.button{
+    background: aqua;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
